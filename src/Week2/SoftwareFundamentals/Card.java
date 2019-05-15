@@ -4,6 +4,9 @@ package Week2.SoftwareFundamentals;
  * A simple file to model Card class.
  *
  * @author Ali Hassan, May 15 2019
+ * 
+ * 
+ * Adding a line to test commit
  */
 public class Card {
 
